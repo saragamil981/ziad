@@ -1,0 +1,57 @@
+.div-style{
+
+background-color:#bbdefb;
+
+margin-top: 20px;
+margin-right: 20px;
+margin-bottom: 20px;
+margin-left: 10px;
+
+padding: 30px;
+
+border-color:#0a0908 ;
+border-style: solid;
+border-radius: 30px;
+
+
+}
+ 
+
+.my-style{
+
+color: black;
+background-color:#bbdefb ;
+
+border-color:#0a0908;
+border-style: solid;
+border-radius: 30px;
+
+margin-top: 20px;
+margin-right: 20px;
+margin-bottom: 20px;
+margin-left: 10px;
+}
+
+.img-style{
+	margin-top: 10px;
+	margin-right: 17px;
+	margin-bottom: 20px;
+	margin-left: 17px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 20px;
+
+}
+
+
+
+.d-style {
+	border-radius: 10px;
+	border: 1px solid #000000;
+	background-color: #F7F7F7;
+	margin-top: 3px;
+	margin-left: 2px;
+	margin-bottom: 3px;
+	margin-right: 2px;
+	
+}
